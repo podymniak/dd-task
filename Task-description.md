@@ -1,5 +1,3 @@
-Task description:
-
 Create a DAG in Airflow with GCP that will:
  1. write 4 files from GCS to BigQuery
  2. Remove duplicated
